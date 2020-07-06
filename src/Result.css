@@ -1,0 +1,13 @@
+/*.Result{
+    border: 5px solid gray;
+    width:50vw;
+    margin: auto;
+    text-align: center;
+    background-color: #bfdec3;
+    padding: 2em;
+}*/
+
+.display-background{
+    background-color: #a5d9a8;
+    overflow: auto;
+}

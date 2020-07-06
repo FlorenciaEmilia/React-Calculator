@@ -1,0 +1,38 @@
+button{
+    margin: 0.4em !important;
+}
+#calc-container{
+    background-color:#eb73d9;
+    height: auto;
+
+}
+
+#calc-body{
+   width:80vw;
+   margin:auto;
+   margin-top:8%;
+   text-align: center;
+}
+
+
+
+
+
+@media(min-width: 600px){
+    #calc-container{
+        background-color:#eb73d9;
+        display: block;
+        width: 40vw;
+        margin:auto;
+        text-align: center;
+        height: auto;
+        
+    }
+
+    #calc-body{
+        width: 30vw;
+        display: block;
+    }   
+}
+
+
